@@ -1,7 +1,3 @@
-Here’s a clean and professional **README** for your GitHub repository:  
-
----
-
 # **Music Genre Classification Web App** 🎵  
 
 A Flask-based web application that classifies music genres from uploaded audio files. The app extracts audio features, visualizes the spectrum, and predicts the genre using a trained machine learning model.  
